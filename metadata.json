@@ -1,0 +1,6 @@
+{
+  "name": "Arugn Clinic",
+  "description": "Premium general medicine clinical website for Dr. Abhinay Krishna Soni, MBBS, MD (Medicine) at ARUGN Clinic & Pharmacy in Bhopal, Madhya Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
