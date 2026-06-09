@@ -1,6 +1,10 @@
-export const PORTRAIT_IMAGE = "/src/assets/images/dr_soni_portrait_1780986626823.png";
-export const CLINIC_ENTRANCE_IMAGE = "/src/assets/images/arugn_clinic_entrance_1780986647863.png";
-export const CLINIC_WARD_IMAGE = "/src/assets/images/arugn_clinic_ward_1780986665779.png";
+import portraitImg from "./assets/images/dr_soni_portrait_1780986626823.png";
+import entranceImg from "./assets/images/arugn_clinic_entrance_1780986647863.png";
+import wardImg from "./assets/images/arugn_clinic_ward_1780986665779.png";
+
+export const PORTRAIT_IMAGE = portraitImg;
+export const CLINIC_ENTRANCE_IMAGE = entranceImg;
+export const CLINIC_WARD_IMAGE = wardImg;
 
 export interface ServiceDetail {
   id: string;
